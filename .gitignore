@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+venv/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.bak
+*.swo
+
+# Project specific
+outputs/
+models/*.pth
+.gemini/
+.DS_Store
