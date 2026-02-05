@@ -1,0 +1,4 @@
+diffusers
+Pillow
+streamlit
+xformers==0.0.34
