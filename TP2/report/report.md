@@ -94,13 +94,14 @@ Ces expériences visent à comprendre l'impact des paramètres `num_inference_st
 
 ### Image source ("avant")
 
-![Image Source](../inputs/product.jpg)
+![Image Source](../inputs/red_apple.png)
 
 ### Résultats des générations Img2Img
 
 ![Strength 0.35](../outputs/i2i_run07_strength035.png)
 ![Strength 0.60](../outputs/i2i_run08_strength060.png)
 ![Strength 0.85](../outputs/i2i_run09_strength085.png)
+
 
 ### Analyse qualitative du paramètre `strength`
 

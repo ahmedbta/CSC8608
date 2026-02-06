@@ -51,7 +51,7 @@ def run_img2img_experiments() -> None:
     steps = 30
     guidance = 7.5
 
-    init_path = "inputs/pomme_rouge.jpg"
+    init_path = "inputs/red_apple.png"
 
     prompt = "red apple with white background"   # TODO: prompt e-commerce (en anglais)
     negative = "text, watermark, logo, low quality, blurry, deformed"
